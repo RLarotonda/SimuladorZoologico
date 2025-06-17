@@ -1,6 +1,4 @@
-=================================================
-SIMULADOR ZOO
-===========================================================
+===================================SIMULADOR ZOO===========================================================
 
 Autores: Rafael Larotonda e Luana Cosmos
 Disciplina: Programação Orientada a Objetos I (POOI)  
